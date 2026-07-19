@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
