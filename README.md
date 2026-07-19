@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0260-single-number-iii) |
 | [0832-flipping-an-image](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0260-single-number-iii) |
 | [0832-flipping-an-image](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
