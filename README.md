@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0260-single-number-iii) |
+| [0414-third-maximum-number](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 | [0832-flipping-an-image](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0709-to-lower-case) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/vignesh-poovanna/Data-Structures-Algorithms/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
